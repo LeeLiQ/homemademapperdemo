@@ -1,0 +1,11 @@
+C:\Users\qiali\Documents\Demos\mapper-demo\bin\Debug\netcoreapp2.0\mapper-demo.deps.json
+C:\Users\qiali\Documents\Demos\mapper-demo\bin\Debug\netcoreapp2.0\mapper-demo.runtimeconfig.json
+C:\Users\qiali\Documents\Demos\mapper-demo\bin\Debug\netcoreapp2.0\mapper-demo.runtimeconfig.dev.json
+C:\Users\qiali\Documents\Demos\mapper-demo\bin\Debug\netcoreapp2.0\mapper-demo.dll
+C:\Users\qiali\Documents\Demos\mapper-demo\bin\Debug\netcoreapp2.0\mapper-demo.pdb
+C:\Users\qiali\Documents\Demos\mapper-demo\obj\Debug\netcoreapp2.0\mapper-demo.csprojAssemblyReference.cache
+C:\Users\qiali\Documents\Demos\mapper-demo\obj\Debug\netcoreapp2.0\mapper-demo.csproj.CoreCompileInputs.cache
+C:\Users\qiali\Documents\Demos\mapper-demo\obj\Debug\netcoreapp2.0\mapper-demo.AssemblyInfoInputs.cache
+C:\Users\qiali\Documents\Demos\mapper-demo\obj\Debug\netcoreapp2.0\mapper-demo.AssemblyInfo.cs
+C:\Users\qiali\Documents\Demos\mapper-demo\obj\Debug\netcoreapp2.0\mapper-demo.dll
+C:\Users\qiali\Documents\Demos\mapper-demo\obj\Debug\netcoreapp2.0\mapper-demo.pdb
